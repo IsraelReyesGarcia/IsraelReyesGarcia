@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, nodejs, express, next.js**
 
-- 👯 I’m looking to collaborate on **projects frontend**
+- 👯 I’m looking to collaborate on projects **frontend** and **backend**
 
 - 💬 Ask me about **React**
 
